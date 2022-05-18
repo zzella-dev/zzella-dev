@@ -65,7 +65,7 @@
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
+  <a href="[https://github.com/seu-usuario/seu-repositorio](https://github.com/zzella-dev/zzella-dev)">
     <img
       align="center"
       height="120em"
