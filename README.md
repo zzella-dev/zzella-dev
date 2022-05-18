@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/zzella-dev)
+[![banner](./[Sem Título-1](https://user-images.githubusercontent.com/75035367/169107332-083de87d-e697-42aa-baa8-8f725a3d7550.png))](https://github.com/zzella-dev)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
