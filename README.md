@@ -32,31 +32,31 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é [seu nome]</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Gabriela</h1></img>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/zzella-dev">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=zzella-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/zzella-dev">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanderFarias&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzella-dev&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/zzella-dev">
     <img
       align="center"
-      src="https://github-profile-trophy.vercel.app/?username=LuanderFarias&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=zzella-dev&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
 </a>
@@ -69,7 +69,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=zzella-dev&repo=LuanderFarias&theme=tokyonight">
     </img>
   </a>
 </p>
@@ -77,24 +77,24 @@
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://instagram.com/zzella__/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/devzzella">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
+  <a href="https://discord.gg/bagi">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/devmazzaro/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
@@ -106,5 +106,5 @@
     />
   </a>
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">@zzella-dev</h5>
 </details>
