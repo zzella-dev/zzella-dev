@@ -1,5 +1,4 @@
-[![banner](./[Sem Título-1](https://user-images.githubusercontent.com/75035367/169107332-083de87d-e697-42aa-baa8-8f725a3d7550.png))](https://github.com/zzella-dev)
-
+![Sem Título-1](https://user-images.githubusercontent.com/75035367/169107491-de405f44-4e1b-4c36-b3e4-873ae263c0b0.png)
   <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
